@@ -17,8 +17,8 @@ ReactDOM.render(
         <Increment />
         <Increment />
         <Increment />
-    </div>, 
-    domContainer
+    </div>
+, domContainer
 );
 
 
